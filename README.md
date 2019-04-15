@@ -1,5 +1,3 @@
-# Awesome Dumpsterfire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 A curated list of awesome "tech as dumpster fire" resources.
 
 Inspired by and templated on [awesome-python](https://github.com/vinta/awesome-python).
@@ -10,7 +8,7 @@ Inspired by and templated on [awesome-python](https://github.com/vinta/awesome-p
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Awesome Dumpsterfire](#awesome-dumpsterfire)
+- [Awesome Dumpsterfire *](#awesome-dumpsterfire-)
   - [General](#general)
   - [Javascript](#javascript)
 - [Contributing](#contributing)
@@ -21,7 +19,7 @@ Inspired by and templated on [awesome-python](https://github.com/vinta/awesome-p
 
 ---
 
-# Awesome Dumpsterfire
+# Awesome Dumpsterfire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## General
 
