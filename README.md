@@ -1,10 +1,15 @@
+# Awesome Dumpsterfire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome "tech as dumpster fire" resources.
+
+Inspired by and templated on [awesome-python](https://github.com/vinta/awesome-python).
+
 <!-- prettier-ignore-start -->
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Awesome Dumpsterfire *](#awesome-dumpsterfire-)
   - [General](#general)
   - [Javascript](#javascript)
 - [Contributing](#contributing)
@@ -12,20 +17,6 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <!-- prettier-ignore-end -->
-
-# Awesome Dumpsterfire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A curated list of awesome "tech as dumpster fire" resources.
-
-Inspired by and templated on [awesome-python](https://github.com/vinta/awesome-python).
-
-- [Awesome Dumpsterfire](#awesome-dumpsterfire)
-  - [General](#general)
-    - [James Mickens](#james-mickens)
-  - [Javascript](#javascript)
-    - [Wat](#wat)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 ---
 
