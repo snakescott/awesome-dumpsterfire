@@ -10,6 +10,7 @@ Inspired by and templated on [awesome-python](https://github.com/vinta/awesome-p
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [Awesome Dumpsterfire](#awesome-dumpsterfire)
   - [General](#general)
   - [Javascript](#javascript)
 - [Contributing](#contributing)
@@ -19,6 +20,8 @@ Inspired by and templated on [awesome-python](https://github.com/vinta/awesome-p
 <!-- prettier-ignore-end -->
 
 ---
+
+# Awesome Dumpsterfire
 
 ## General
 
