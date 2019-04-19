@@ -40,7 +40,7 @@ _Javascript language-specific dumpster fires._
 
 ## Incidents
 
-_When the dumpsterfire explodes_
+_When the dumpsterfire explodes._
 
 - [SEC findings on Knight Capital](https://www.sec.gov/litigation/admin/2013/34-70694.pdf) -
   learn how you can lose 460 million dollars in forty five minutes through egregious
