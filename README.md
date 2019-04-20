@@ -10,6 +10,7 @@ on [awesome-python](https://github.com/vinta/awesome-python).
 - [Awesome Dumpsterfire *](#awesome-dumpsterfire-)
   - [General](#general)
   - [Javascript](#javascript)
+  - [Incidents](#incidents)
 - [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -36,6 +37,14 @@ _Widely applicable dumpster fires._
 _Javascript language-specific dumpster fires._
 
 - [Wat](https://www.destroyallsoftware.com/talks/wat) - `{} + {} = NaN`. Wat.
+
+## Incidents
+
+_When the dumpsterfire explodes._
+
+- [SEC findings on Knight Capital](https://www.sec.gov/litigation/admin/2013/34-70694.pdf) -
+  learn how you can lose 460 million dollars in forty five minutes through egregious
+  incompetence.
 
 # Contributing
 
