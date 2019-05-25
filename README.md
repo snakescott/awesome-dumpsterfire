@@ -11,6 +11,7 @@ on [awesome-python](https://github.com/vinta/awesome-python).
   - [General](#general)
   - [Javascript](#javascript)
   - [Incidents](#incidents)
+  - [Rotten Companies](#rotten-companies)
 - [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -45,6 +46,15 @@ _When the dumpsterfire explodes._
 - [SEC findings on Knight Capital](https://www.sec.gov/litigation/admin/2013/34-70694.pdf) -
   learn how you can lose 460 million dollars in forty five minutes through egregious
   incompetence.
+
+## Rotten Companies
+
+_The dumpsterfire is coming from inside the house_
+
+- [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X) -
+  learn by example from this record of health tech startup
+  [Theranos](https://en.wikipedia.org/wiki/Theranos) moving fast and threatening patient
+  health.
 
 # Contributing
 
