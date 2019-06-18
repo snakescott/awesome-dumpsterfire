@@ -57,6 +57,9 @@ _The dumpsterfire is coming from inside the house_
   learn by example from this record of health tech startup
   [Theranos](https://en.wikipedia.org/wiki/Theranos) moving fast and threatening patient
   health.
+- [Clinkle Up In Smoke As Investors Want Their Money Back](https://www.forbes.com/sites/ryanmac/2016/01/22/clinkle-up-in-smoke-as-investors-want-their-money-back/) -
+  "Though Clinkle didn't have a public product, many lauded the company and its young
+  CEO for raising so much funding so early"... what could possibly go wrong?
 
 # Other Resources
 
