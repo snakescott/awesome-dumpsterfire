@@ -44,8 +44,9 @@ _Javascript language-specific dumpster fires._
 _When the dumpsterfire explodes._
 
 - [SEC findings on Knight Capital](https://www.sec.gov/litigation/admin/2013/34-70694.pdf) -
-  learn how you can lose 460 million dollars in forty five minutes through egregious
-  incompetence.
+  learn how Knight lost 460 million dollars in forty five minutes. See also
+  [John Allspaw's critique](https://www.kitchensoap.com/2013/10/29/counterfactuals-knight-capital/)
+  of these findings.
 
 ## Rotten Companies
 
