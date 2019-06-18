@@ -12,6 +12,7 @@ on [awesome-python](https://github.com/vinta/awesome-python).
   - [Javascript](#javascript)
   - [Incidents](#incidents)
   - [Rotten Companies](#rotten-companies)
+- [Other Resources](#other-resources)
 - [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -56,6 +57,12 @@ _The dumpsterfire is coming from inside the house_
   learn by example from this record of health tech startup
   [Theranos](https://en.wikipedia.org/wiki/Theranos) moving fast and threatening patient
   health.
+
+# Other Resources
+
+_Not all failures are dumpsterfires._
+
+- [Kubernetes Failure Stories](https://k8s.af/)
 
 # Contributing
 
