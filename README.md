@@ -60,6 +60,8 @@ _The dumpsterfire is coming from inside the house_
 - [Clinkle Up In Smoke As Investors Want Their Money Back](https://www.forbes.com/sites/ryanmac/2016/01/22/clinkle-up-in-smoke-as-investors-want-their-money-back/) -
   "Though Clinkle didn't have a public product, many lauded the company and its young
   CEO for raising so much funding so early"... what could possibly go wrong?
+- [SEC complaint against Kik about Kin cryptocurrency](https://www.katherinewu.me/s/SEC-sues-Kik-efa2.pdf) -
+  in short, winners don't do ICOs.
 
 # Other Resources
 
