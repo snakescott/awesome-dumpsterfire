@@ -1,6 +1,6 @@
 language: python
 install: pip install pre-commit
-script: pre-commit run --all-files
+script: pre-commit run --all-files --show-diff-on-failure
 cache:
     directories:
         - $HOME/.cache/pip
